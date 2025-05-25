@@ -16,7 +16,10 @@ This is a simple Java console-based CRUD application using a layered architectur
 ## How to Run
 1. Clone the repository or download the ZIP.
 2. Open in your IDE.
-3. Run `App.java` from `src/ui/App.java`.
+3. Run `Server.java` to start the server
+4. Run `Client.java` Enter the user name
+5. enter your message in the message box then click send
+6. Run another `Client.java` for another client 
 
 ## File Structure
 ```
