@@ -1,0 +1,9 @@
+
+*.class
+*.log
+*.tmp
+*.swp
+.DS_Store
+.idea/
+.vscode/
+out/
